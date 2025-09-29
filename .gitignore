@@ -1,2 +1,5 @@
 .venv
 **/aclImdb/
+**/*_ham/
+**/spam/
+*.bz2
